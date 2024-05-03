@@ -52,7 +52,7 @@ const columns: Column<any>[] = [
   },
   {
     key: 'name',
-    title: 'Name',
+    title: '名字',
     dataKey: 'name',
     width: 150,
     align: 'center',
